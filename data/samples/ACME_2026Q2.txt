@@ -1,0 +1,34 @@
+Acme Robotics Q2 Fiscal 2026 Earnings Call
+(Fictional sample transcript for testing EarningsIQ. Company, people and figures are invented.)
+
+Operator: Welcome to the Acme Robotics second quarter fiscal 2026 earnings call. I will now hand the call to Priya Natarajan.
+
+Prepared Remarks
+
+Priya Natarajan -- Head of Investor Relations
+Thank you. With me are Daniel Okafor, CEO, and Laura Chen, CFO. Our remarks include forward-looking statements.
+
+Daniel Okafor -- Chief Executive Officer
+Thanks, Priya. Q2 revenue was $371 million, up 19% year over year. We shipped 2,750 Atlas units. Software attach rate was 63%. Component shortages, especially servo motors with 22-week lead times, limited shipments by roughly 200 units this quarter. We expect that constraint to ease in the second half.
+We announced Atlas 3 at our customer conference and expect to begin shipping it in September.
+
+Laura Chen -- Chief Financial Officer
+Thanks, Daniel. Revenue was $371 million. Hardware revenue was $276 million and recurring software revenue was $95 million. Annual recurring revenue was $392 million.
+Gross margin was 44.8%. Freight costs remained elevated and reduced gross margin by about 60 basis points. Operating expenses were $143 million, and operating margin was 6.9%.
+For Q3 fiscal 2026 we expect revenue between $395 million and $405 million. For the full year we expect revenue of $1.53 billion to $1.56 billion.
+
+Questions and Answers
+
+Michael Rossi -- Analyst, Northbridge Securities
+Laura, what is your assumption on freight costs for the second half?
+
+Laura Chen -- Chief Financial Officer
+We assume freight normalizes gradually. We have renegotiated two ocean contracts effective in Q3, which should recover roughly half of the 60 basis point headwind.
+
+Sarah Kim -- Analyst, Westlake Capital
+Daniel, can you size the pipeline for large grocery deployments?
+
+Daniel Okafor -- Chief Executive Officer
+We are in late-stage conversations with several large grocers. One of them would be the largest contract in our history if it closes. We are not going to give numbers until it is signed.
+
+Operator: This concludes today's call.

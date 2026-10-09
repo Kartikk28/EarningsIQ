@@ -1,0 +1,48 @@
+Acme Robotics Q3 Fiscal 2026 Earnings Call
+(Fictional sample transcript for testing EarningsIQ. Company, people and figures are invented.)
+
+Operator: Good afternoon and welcome to the Acme Robotics third quarter fiscal 2026 earnings conference call. All lines are in listen-only mode. I will now turn the call over to Priya Natarajan, Head of Investor Relations.
+
+Prepared Remarks
+
+Priya Natarajan -- Head of Investor Relations
+Thank you, operator. Joining me today are Daniel Okafor, our Chief Executive Officer, and Laura Chen, our Chief Financial Officer. Today's remarks include forward-looking statements that are subject to risks and uncertainties. Actual results may differ materially.
+
+Daniel Okafor -- Chief Executive Officer
+Thanks, Priya, and thanks everyone for joining. Q3 was a record quarter for Acme. Revenue grew 24% year over year to $412 million, driven by strong demand for our Atlas warehouse picking robots. We shipped 3,100 Atlas units in the quarter, up from 2,200 a year ago. Our software attach rate reached 68%, meaning more than two thirds of new robots were sold with an annual Fleet OS subscription.
+We also signed our largest contract ever, a multi-year deployment with a top-five North American grocery chain covering 40 distribution centers. Deployments begin in Q1 of fiscal 2027.
+On the product side, we launched Atlas 3 in September. It picks 30% faster than Atlas 2 and uses a new vision model trained on more than 2 billion picks. Early customer feedback has been excellent.
+Supply chain has improved meaningfully. Lead times for our servo motors fell from 22 weeks to 14 weeks, and we no longer expect component shortages to constrain shipments next year.
+
+Laura Chen -- Chief Financial Officer
+Thank you, Daniel. Total revenue for Q3 was $412 million, up 24% year over year. Hardware revenue was $298 million and recurring software revenue was $114 million, up 41% year over year. Annual recurring revenue ended the quarter at $468 million.
+Gross margin was 46.2%, up 310 basis points from 43.1% a year ago, mainly due to the higher software mix and lower freight costs. Operating expenses were $151 million, including $72 million in research and development.
+Operating income was $39 million, an operating margin of 9.5%. Free cash flow was $27 million. We ended the quarter with $1.1 billion in cash and investments and no debt.
+Now turning to guidance. For Q4 fiscal 2026, we expect revenue between $440 million and $455 million and gross margin between 46% and 47%. For the full fiscal year 2026, we are raising our revenue outlook to $1.58 billion to $1.595 billion, up from our prior range of $1.53 billion to $1.56 billion.
+We are also increasing R&D investment in our next generation mobile manipulation platform, so we expect operating expenses to grow faster than revenue in the first half of fiscal 2027.
+
+Questions and Answers
+
+Operator: Our first question comes from Michael Rossi with Northbridge Securities.
+
+Michael Rossi -- Analyst, Northbridge Securities
+Thanks for taking my question. Laura, can you talk about the drivers of the gross margin expansion and whether 46% is sustainable as the grocery deployment ramps?
+
+Laura Chen -- Chief Financial Officer
+Sure, Michael. About two thirds of the expansion came from software mix and the rest from lower freight and better component pricing. Large deployments like the grocery contract carry lower hardware margins in the first year because of installation costs, so we expect some pressure in the first half of fiscal 2027. Over the life of the contract, the software subscriptions make it accretive. We remain comfortable with a long-term gross margin target of 50%.
+
+Operator: Next question comes from Sarah Kim with Westlake Capital.
+
+Sarah Kim -- Analyst, Westlake Capital
+Hi, thanks. Daniel, how should we think about competition, especially from the lower-cost Asian robot makers?
+
+Daniel Okafor -- Chief Executive Officer
+Great question, Sarah. We do see more low-cost hardware in competitive deals, mostly in Asia and parts of Europe. But customers in North America buy on total throughput and uptime, not unit price. Atlas fleets ran at 99.4% uptime this quarter, and Fleet OS lets customers manage mixed fleets. Our win rate in competitive deals over 50 units was 71% this quarter, roughly flat with last year.
+
+Sarah Kim -- Analyst, Westlake Capital
+And any update on capital allocation?
+
+Laura Chen -- Chief Financial Officer
+Our board approved a $200 million share repurchase program, which we expect to execute over the next 18 months. Our priority remains investing in R&D and growth.
+
+Operator: That concludes our question-and-answer session. Thank you for participating.
