@@ -115,8 +115,9 @@ data/samples/    fictional sample calls used by the demo and tests
 
 ## Roadmap
 
-Next up: an evaluation harness, number verification for generated answers, automatic
-filters from the question ("last quarter", "the CFO"), and SEC EDGAR ingestion.
+The direction: measured answer quality (an evaluation harness with published numbers),
+benchmarks and latency targets, point-in-time ingestion of SEC filings, and research tooling
+that turns calls into signals and tests them with a proper event study.
 See [ROADMAP.md](ROADMAP.md).
 
 The sample transcripts in `data/samples/` are fictional; the company, people and figures are
